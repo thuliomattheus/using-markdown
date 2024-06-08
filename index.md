@@ -5,4 +5,4 @@
 ##### This is an \<h5\> header
 ###### This is an \<h6\> header
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Yaktocat Image](https://octodex.github.com/images/yaktocat.png)
